@@ -23,7 +23,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_animated: yes
           config_timezone: Europe/Paris
-          plugin_pagespeed: yes
+          plugin_pagespeed: false
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_tweets: false
